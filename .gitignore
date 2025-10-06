@@ -1,0 +1,35 @@
+# Données (images)
+data/
+
+# Modèles entraînés
+outputs/
+*.keras
+*.h5
+*.weights.h5
+
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Environnements virtuels
+venv/
+env/
+ENV/
+.venv
+
+# VS Code
+.vscode/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
