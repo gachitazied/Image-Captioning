@@ -1,0 +1,7 @@
+dataset
+detected_photos
+denoised_results
+.venv
+.idea
+.pyproject.toml
+uv.lock
